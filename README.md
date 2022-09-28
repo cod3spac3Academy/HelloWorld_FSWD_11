@@ -24,3 +24,4 @@ Bienvenido a la nave, ¡despegamos!
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
 | 1 | armicheramos | Armiche | Ramos | [armicheramos](https://github.com/armicheramos/armicheramos) |
 | 2 | davidbonora | David | Miró | [davidbonora](https://github.com/davidbonora/davidbonora) |
+| 3 | EliasRMena | Elías | Rodríguez | [EliasRMena](https://github.com/EliasRMena/EliasRMena) |
