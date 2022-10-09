@@ -29,3 +29,4 @@ Bienvenido a la nave, ¡despegamos!
 | 5 | nel386 | Nelson | González | [nel386](https://github.com/nel386/nel386) |
 | 6 | ElenaLM91 | ELena | López | [ElenaLM91](https://github.com/ElenaLM91)|
 | 7 | pablommartos | Pablo | Muñoz | [pablommartos](https://github.com/pablommartos/pablommartos)|
+| 7.1 | kevlaroscuro | Juan Carlos | Martos | [kevlaroscuro](https://github.com//kevlaroscuro)
