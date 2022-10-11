@@ -22,3 +22,13 @@ Bienvenido a la nave, ¡despegamos!
 | id | Alias | Nombre | Apellido | Repositorio |
 | :-------: | :-------: | :------: | :------: | :-------: |
 | 0 | Ch3ssMaster | Antonio | Cebrián | [bitGames](https://github.com/Ch3ssMaster/bitgames) |
+| 1 | armicheramos | Armiche | Ramos | [armicheramos](https://github.com/armicheramos/armicheramos) |
+| 2 | davidbonora | David | Miró | [davidbonora](https://github.com/davidbonora/davidbonora) |
+| 3 | EliasRMena | Elías | Rodríguez | [EliasRMena](https://github.com/EliasRMena/EliasRMena) |
+| 4 | IsmaelBoule | Ismael | Boumhir | [IsmaelBoule](https://github.com/IsmaelBoule/IsmaelBoule) |
+| 5 | nel386 | Nelson | González | [nel386](https://github.com/nel386/nel386) |
+| 6 | CoralRGE | Coral | González | [CoralRGE](https://github.com/CoralRGE)|
+| 7 | ElenaLM91 | ELena | López | [ElenaLM91](https://github.com/ElenaLM91)|
+| 8 | pablommartos | Pablo | Muñoz | [pablommartos](https://github.com/pablommartos/pablommartos)|
+| 9 | AlinaDorosh-dev | Alina | Dorosh | [AlinaDorosh-dev](https://github.com/AlinaDorosh-dev/AlinaDorosh-dev)|
+|10 | VkaSC | Veronika | Sanchez | [VkaSC](https://github.com/VkaSC/VkaSC)|
