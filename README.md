@@ -31,3 +31,4 @@ Bienvenido a la nave, ¡despegamos!
 | 7 | pablommartos | Pablo | Muñoz | [pablommartos](https://github.com/pablommartos/pablommartos)|
 | 8 | AlinaDorosh-dev | Alina | Dorosh | [AlinaDorosh-dev](https://github.com/AlinaDorosh-dev/AlinaDorosh-dev)|
 | 9 | VkaSC | Veronika | Sanchez | [VkaSC](https://github.com/VkaSC/VkaSC)|
+|10 | DanielVallejo90 | Daniel | Vallejo | [DanielVallejo90](https://github.com/DanielVallejo90/DanielVallejo90)|
