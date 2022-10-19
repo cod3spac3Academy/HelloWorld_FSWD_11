@@ -33,3 +33,4 @@ Bienvenido a la nave, ¡despegamos!
 | 9 | VkaSC | Veronika | Sanchez | [VkaSC](https://github.com/VkaSC/VkaSC)|
 |10 | DanielVallejo90 | Daniel | Vallejo | [DanielVallejo90](https://github.com/DanielVallejo90/DanielVallejo90)|
 |11 | AnaLR27 | Ana | Lorenzo | [AnaLR27](https://github.com/AnaLR27/AnaLR27)|
+|12 | alimarchi | Alice | Marchi | [alimarchi](https://github.com/alimarchi/alimarchi)|
