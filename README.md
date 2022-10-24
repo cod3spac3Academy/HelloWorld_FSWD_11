@@ -35,3 +35,4 @@ Bienvenido a la nave, ¡despegamos!
 |11 | AnaLR27 | Ana | Lorenzo | [AnaLR27](https://github.com/AnaLR27/AnaLR27)|
 |12 | alimarchi | Alice | Marchi | [alimarchi](https://github.com/alimarchi/alimarchi)|
 |13 | Cococod3 | Oliver | Green | [Cococod3](https://github.com/Cococod3/Cococod3)|
+|14 | DaniSanchezG | Dani | Sánchez | [DaniSanchezG](https://github.com/DaniSanchezG/DaniSanchezG)|
