@@ -32,3 +32,8 @@ Bienvenido a la nave, ¡despegamos!
 | 8 | pablommartos | Pablo | Muñoz | [pablommartos](https://github.com/pablommartos/pablommartos)|
 | 9 | AlinaDorosh-dev | Alina | Dorosh | [AlinaDorosh-dev](https://github.com/AlinaDorosh-dev/AlinaDorosh-dev)|
 |10 | VkaSC | Veronika | Sanchez | [VkaSC](https://github.com/VkaSC/VkaSC)|
+|11 | DanielVallejo90 | Daniel | Vallejo | [DanielVallejo90](https://github.com/DanielVallejo90/DanielVallejo90)|
+|12 | AnaLR27 | Ana | Lorenzo | [AnaLR27](https://github.com/AnaLR27/AnaLR27)|
+|13 | alimarchi | Alice | Marchi | [alimarchi](https://github.com/alimarchi/alimarchi)|
+|14 | Cococod3 | Oliver | Green | [Cococod3](https://github.com/Cococod3/Cococod3)|
+|15 | DaniSanchezG | Dani | Sánchez | [DaniSanchezG](https://github.com/DaniSanchezG/DaniSanchezG)|
