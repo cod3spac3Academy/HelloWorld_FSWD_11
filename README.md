@@ -43,3 +43,4 @@ Bienvenido a la nave, ¡despegamos!
 |19 | Benja022 | Benjamin | Mancera | [Benja022](https://github.com/Benja022)|
 |20 | Codezeb | Sebastian | Gonzalez | [Codezeb](https://github.com/Codezeb)|
 |21 | Nachomg93 | Nacho | Martín | [Nachomg93](https://github.com/Nachomg93/Nachomg93) |
+|22 | Gomufra | Gonzalo | Muñoz | [Gomufra](https://github.com/Gomufra/Gomufra) |
